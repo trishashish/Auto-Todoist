@@ -1,5 +1,5 @@
 # Auto Todoist
-A Python script that automatically re-prioritizes Todoist tasks.
+A Python script that automatically re-prioritizes Todoist tasks. For each day with tasks that exceed the maximum number of working hours per day, tasks are sorted by priority, and the lowest-priority tasks are moved to the next day first until the total duration of tasks falls below the number of working hours. The same adjustments are made for the next day, the day after, and so on.
 
 **Instructions:**
 1. Clone the repository
