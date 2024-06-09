@@ -7,4 +7,4 @@ Auto Todoist is a Python script that automatically re-prioritizes Todoist tasks.
 1. Clone the repository
 2. Add your Todoist API key to the `.env` file. This can be found in Todoist > Settings > Integrations > Developer
 3. `cd` into the Auto-Todoist folder and run `source venv/bin/activate`
-4. Run `app.py`. Make any adjustments to the maximum number of working hours constant or the number of days the script adjusts
+4. Run `app.py` with `python3 app.py`. Make any adjustments to the maximum number of working hours constant or the number of days the script adjusts
